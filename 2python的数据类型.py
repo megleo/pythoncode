@@ -17,4 +17,19 @@ like = "i love u"
 print(love,hello,like)
 print(love,type(love))
 
+# 大字符串
+
+s = '''
+这是一个很长很长很长的文章内容。。。。。
+哈哈哈哈
+不知道
+你懂了没有
+'''
+s = r'chaung qian ming \n yue guang'
+print(s)
+
+print('*' *  10)
+
+
+
 
